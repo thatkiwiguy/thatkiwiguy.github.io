@@ -3,7 +3,7 @@
     <title>TKG&#x27;s Projektz</title>
     <link href="https://thatkiwiguy.github.io/thatkiwiguy.github.io/feed.xml" rel="self" />
     <link href="https://thatkiwiguy.github.io/thatkiwiguy.github.io" />
-    <updated>2020-05-31T14:09:28+12:00</updated>
+    <updated>2020-05-31T14:57:27+12:00</updated>
     <author>
         <name>ThatKiwiGuy</name>
     </author>
@@ -430,9 +430,10 @@
         </author>
         <link href="https://thatkiwiguy.github.io/thatkiwiguy.github.io/covid-19-and-isolation.html"/>
         <id>https://thatkiwiguy.github.io/thatkiwiguy.github.io/covid-19-and-isolation.html</id>
+            <category term="Blog - Personal"/>
             <category term="Blog"/>
 
-        <updated>2020-05-31T14:05:00+12:00</updated>
+        <updated>2020-05-31T14:18:10+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thatkiwiguy.github.io/thatkiwiguy.github.io/media/posts/9/covid_stats.jpg" alt="" />
@@ -483,9 +484,10 @@
         </author>
         <link href="https://thatkiwiguy.github.io/thatkiwiguy.github.io/the-new-workflow.html"/>
         <id>https://thatkiwiguy.github.io/thatkiwiguy.github.io/the-new-workflow.html</id>
+            <category term="Blog - Technology"/>
             <category term="Blog"/>
 
-        <updated>2020-05-31T14:03:33+12:00</updated>
+        <updated>2020-05-31T14:17:48+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thatkiwiguy.github.io/thatkiwiguy.github.io/media/posts/8/labgore.jpg" alt="" />
@@ -533,9 +535,10 @@
         </author>
         <link href="https://thatkiwiguy.github.io/thatkiwiguy.github.io/vaping-amendment-bill-pt2.html"/>
         <id>https://thatkiwiguy.github.io/thatkiwiguy.github.io/vaping-amendment-bill-pt2.html</id>
+            <category term="VapeFam - Law"/>
             <category term="VapeFam"/>
 
-        <updated>2020-05-31T14:00:11+12:00</updated>
+        <updated>2020-05-31T14:18:20+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thatkiwiguy.github.io/thatkiwiguy.github.io/media/posts/7/jenny_salesa1.jpg" alt="" />
@@ -620,9 +623,10 @@
         </author>
         <link href="https://thatkiwiguy.github.io/thatkiwiguy.github.io/vaping-amendment-bill-pt1-updated.html"/>
         <id>https://thatkiwiguy.github.io/thatkiwiguy.github.io/vaping-amendment-bill-pt1-updated.html</id>
+            <category term="VapeFam - Law"/>
             <category term="VapeFam"/>
 
-        <updated>2020-05-31T13:47:32+12:00</updated>
+        <updated>2020-05-31T14:18:29+12:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thatkiwiguy.github.io/thatkiwiguy.github.io/media/posts/1/parliament.jpg" alt="" />

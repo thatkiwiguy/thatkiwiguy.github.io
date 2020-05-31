@@ -114,10 +114,11 @@
                 "name": "ThatKiwiGuy"
             },
             "tags": [
+                   "Blog - Personal",
                    "Blog"
             ],
             "date_published": "2020-03-22T14:04:00+13:00",
-            "date_modified": "2020-05-31T14:05:00+12:00"
+            "date_modified": "2020-05-31T14:18:10+12:00"
         },
         {
             "id": "https://thatkiwiguy.github.io/thatkiwiguy.github.io/the-new-workflow.html",
@@ -130,10 +131,11 @@
                 "name": "ThatKiwiGuy"
             },
             "tags": [
+                   "Blog - Technology",
                    "Blog"
             ],
             "date_published": "2020-03-21T14:01:00+13:00",
-            "date_modified": "2020-05-31T14:03:33+12:00"
+            "date_modified": "2020-05-31T14:17:48+12:00"
         },
         {
             "id": "https://thatkiwiguy.github.io/thatkiwiguy.github.io/vaping-amendment-bill-pt2.html",
@@ -146,10 +148,11 @@
                 "name": "ThatKiwiGuy"
             },
             "tags": [
+                   "VapeFam - Law",
                    "VapeFam"
             ],
             "date_published": "2020-03-14T13:59:00+13:00",
-            "date_modified": "2020-05-31T14:00:11+12:00"
+            "date_modified": "2020-05-31T14:18:20+12:00"
         },
         {
             "id": "https://thatkiwiguy.github.io/thatkiwiguy.github.io/vaping-amendment-bill-pt1-updated.html",
@@ -162,10 +165,11 @@
                 "name": "ThatKiwiGuy"
             },
             "tags": [
+                   "VapeFam - Law",
                    "VapeFam"
             ],
             "date_published": "2020-03-08T13:24:00+13:00",
-            "date_modified": "2020-05-31T13:47:32+12:00"
+            "date_modified": "2020-05-31T14:18:29+12:00"
         }
     ]
 }
