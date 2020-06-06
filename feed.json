@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://thatkiwiguy.github.io/2020-voice-acting-demo/",
+            "url": "https://thatkiwiguy.github.io/2020-voice-acting-demo/",
+            "title": "2020 - Voice Acting Demo",
+            "summary": "This is a quick demo for 2020. I attempt to showcase: - Voice Acting with separate Character Voices - Scripting - Humor - A little Mixing - Some basic Audio Editing - Singing - Timing Hopefully, it came out well. Any feedback is welcome! Feel&hellip;",
+            "content_html": "<p>This is a quick demo for 2020.</p>\n<p><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/835052596&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></p>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a href=\"https://soundcloud.com/user-718820393\" title=\"ThatKiwiGuy\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">ThatKiwiGuy</a> · <a href=\"https://soundcloud.com/user-718820393/2020-demo-reel\" title=\"2020 - Demo Reel\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">2020 - Demo Reel</a></div>\n<p>I attempt to showcase:<br>- Voice Acting with separate Character Voices<br>- Scripting<br>- Humor<br>- A little Mixing<br>- Some basic Audio Editing<br>- Singing<br>- Timing</p>\n<p>Hopefully, it came out well. Any feedback is welcome!</p>\n<p>Feel free to get in touch here: <a href=\"https://gate.sc/?url=https%3A%2F%2Fwww.castingcall.club%2Fm%2Fthatkiwiguy&amp;token=abbfb3-1-1591418157874\" rel=\"nofollow noopener ugc\" target=\"_blank\" title=\"https://www.castingcall.club/m/thatkiwiguy\">www.castingcall.club/m/thatkiwiguy</a></p>\n<p>You'll also find a list of other projects and auditions.</p>",
+            "image": "https://thatkiwiguy.github.io/media/posts/25/327186_23a6.jpg",
+            "author": {
+                "name": "ThatKiwiGuy"
+            },
+            "tags": [
+                   "Voice Acting"
+            ],
+            "date_published": "2020-06-06T16:37:23+12:00",
+            "date_modified": "2020-06-06T16:39:11+12:00"
+        },
+        {
             "id": "https://thatkiwiguy.github.io/audition-dragon-king/",
             "url": "https://thatkiwiguy.github.io/audition-dragon-king/",
             "title": "Audition - Dragon King + Bonus Editing",
@@ -150,22 +166,6 @@
             ],
             "date_published": "2020-05-20T16:34:00+12:00",
             "date_modified": "2020-05-31T16:55:01+12:00"
-        },
-        {
-            "id": "https://thatkiwiguy.github.io/auditions-the-king-4/",
-            "url": "https://thatkiwiguy.github.io/auditions-the-king-4/",
-            "title": "Auditions - Butler",
-            "summary": "An old butler uwu I mean, doesn't need to be that old if it's not possible! ThatKiwiGuy · Auditions - ButlerYOUNG MASTER! WHAT IS –Young master... Shouldn't we ask permission from your parents first...?Perhaps this puppy had an awful trauma with her previous owner?",
-            "content_html": "<p>An old butler uwu I mean, doesn't need to be that old if it's not possible!</p>\n<p><iframe width=\"100%\" height=\"300\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/831459565%3Fsecret_token%3Ds-ZnuEx5wLuCS&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true\"></iframe></p>\n<div style=\"font-size: 10px; color: #cccccc; line-break: anywhere; word-break: normal; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif; font-weight: 100;\"><a href=\"https://soundcloud.com/user-718820393\" title=\"ThatKiwiGuy\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">ThatKiwiGuy</a> · <a href=\"https://soundcloud.com/user-718820393/auditions-butler/s-ZnuEx5wLuCS\" title=\"Auditions - Butler\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\" rel=\"noopener\">Auditions - Butler</a></div>\n<ol>\n<li>YOUNG MASTER! WHAT IS –</li>\n<li>Young master... Shouldn't we ask permission from your parents first...?</li>\n<li>Perhaps this puppy had an awful trauma with her previous owner?</li>\n</ol>",
-            "image": "https://thatkiwiguy.github.io/media/posts/17/327186_23a6.jpg",
-            "author": {
-                "name": "ThatKiwiGuy"
-            },
-            "tags": [
-                   "Voice Acting"
-            ],
-            "date_published": "2020-05-19T17:21:00+12:00",
-            "date_modified": "2020-05-31T17:23:07+12:00"
         }
     ]
 }
